@@ -1,0 +1,38 @@
+Body{
+	background-color: lightgreen;
+
+}
+
+p{
+	
+	text-align: left;
+	font-family: cursive;
+	
+ 	 }
+
+h1{
+	background-color: #F781F3;
+	text-align: center;
+	font-family: Arial;
+ 	 
+}
+
+h2{
+	background-color: #F781F3;
+	text-align: left;
+	font-family: Arial;
+	 
+}
+
+a{
+	background-color: #01DF01;
+	text-align: center;
+	font-family: Arial;
+	 
+}
+
+
+input{
+	background-color: #FFFF00;
+	
+}
